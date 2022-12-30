@@ -23,6 +23,8 @@ h1 {
 
 header {
   padding: 20px 0;
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
 }
 
 .headerElements {
@@ -74,6 +76,7 @@ select:hover {
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
+  padding-top: 15px;
 }
 
 .card {
